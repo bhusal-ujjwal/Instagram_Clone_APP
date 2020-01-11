@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="326049b6-09b7-4f32-bdbf-ebd15fff8fbb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Instagram" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btnLogin</find>
+      <find>story</find>
+      <find>name</find>
+      <find>Name</find>
+      <find>ujjwal</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dailyPhoto</replace>
+      <replace>PostBy</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/ProfileFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/LikedFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/PostModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/PostAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/StoryModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/StoryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_topbar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/font/insta.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/login_et_outline.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/login_btn.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/SplashScreenActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/StoryApi.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/models/PostModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/PostFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_post.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_reg_i.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_reg_ii.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/LoginApi.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/insta_comment_bg.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_add.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_liked.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_fullscreen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/FullscreenActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/models/StoryModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/Url.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/PostApi.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/adapters/RegisterVP_Adapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register_ii.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/RegIIFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/RegIFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/models/UserModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/RegisterIIActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/RegisterActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/adapters/StoryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/insta_story_card.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/insta_post_card.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="522" />
+    <option name="y" value="-9" />
+    <option name="width" value="1173" />
+    <option name="height" value="666" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagramapplication" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagramapplication" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagramapplication" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagramapplication" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagramapplication" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instagram" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instagram" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.ujjwal.instagram.activities" />
+      <recent name="com.ujjwal.instagram.models" />
+      <recent name="com.ujjwal.instagram" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ujjwa\Desktop\Instagramapplication\app\src\main\res\drawable-v24" />
+      <recent name="E:\Android_4th_Assignment\Instagram\app\src\main\res\drawable-v24" />
+      <recent name="E:\Android_4th_Assignment\Instagram\app\src\main\res\font" />
+      <recent name="E:\Android_4th_Assignment\Instagram\app\src\main\res\drawable" />
+      <recent name="E:\Android_4th_Assignment\Instagram\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="326049b6-09b7-4f32-bdbf-ebd15fff8fbb" name="Default Changelist" comment="" />
+      <created>1577760305291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577760305291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21133603" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32980332" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3272059" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32841328" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3268206" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.26465365" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" weight="0.32872504" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3548387" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.32872504" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32954547" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32874495" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21133603" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32980332" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3272059" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32841328" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32841328" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.26465365" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" weight="0.32872504" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3548387" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.32872504" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32954547" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" visible="true" weight="0.32874495" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/customregbutton.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/data/res/values/attrs.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/insta_comment_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/LikedFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_liked.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fullscreen.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/FullscreenActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/adapters/PostAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/AddFragment.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.5.0/5c17035548a41ec60f00291163d36596a23ddd1a/retrofit-2.5.0-sources.jar!/retrofit2/ExecutorCallAdapterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/adapters/RegisterVP_Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/StoryApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/PostApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/RegIIFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="53" selection-start-line="53" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/models/StoryModel.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/models/UserModel.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/models/PostModel.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/LoginActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/LoginApi.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_reg_i.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_reg_ii.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/visibility_off_24dp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/login_et_outline.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/adapters/StoryAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/igtv.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/insta_story_outline.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/RegIFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register_ii.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_add.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/fragments/PostFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/RegisterIIActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/post.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/post.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_post.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/activities/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/insta_post_card.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/insta_story_card.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ujjwal/instagram/Url.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+  </component>
+</project>
